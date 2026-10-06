@@ -1,16 +1,11 @@
-# niamcity
+# math solver
 
-A new Flutter project.
+solves equations and shows every step like your teacher wants. algebra, calculus, the works.
 
-## Getting Started
+## usage
 
-This project is a starting point for a Flutter application.
+1. download exe from releases
+2. type or paste the problem
+3. get steps + answer
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+graph view for functions too. saved my calc grade ngl
